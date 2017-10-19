@@ -1,0 +1,26 @@
+body{
+  font-family: cursive;
+  color: #f2c8f4
+  padding: 100px;
+}
+
+.hello {
+  border: 5px solid #f2c8f4;
+  padding: 50px;
+  background-color: #c2c2d6
+}
+.purple {
+  border: 5px solid
+  padding: 50px;
+  background-color: #8600b3;
+}
+.gold{
+  border: 5px solid #ffd11a;
+  padding: 50px;
+  background-color: #ffd11a;
+}
+.blue {
+  border: 5px solid #4d79ff;
+  color: white;
+  padding: 50px;
+  background-color: #4d79ff;
